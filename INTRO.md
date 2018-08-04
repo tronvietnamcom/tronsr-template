@@ -13,6 +13,7 @@
 - Homepage: https://www.TRONVIETNAM.com   
 - Facebook:  https://www.facebook.com/groups/TRONVIETNAM 
 - Twitter https://twitter.com/TRONVIETNAMCOM 
-- Telegram Community: http://t.me/tronnetworkVN 
+- Telegram Community(VN): http://t.me/tronnetworkVN
+- Telegram Community(ENG): https://t.me/tronvietnameng
 - Telegram Channel: https://t.me/tronvietnamvoters
 - Github: https://github.com/tronvietnamcom
