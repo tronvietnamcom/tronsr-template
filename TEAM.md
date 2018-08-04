@@ -1,26 +1,26 @@
-## Founder
+- Founder
 
-Jackson Le
+#  Jackson Le
 
-## Technical Manager 
+- Technical Manager 
 
-Justin Nguyen
+# Justin Nguyen
 
-## Marketing Manager
+- Marketing Manager
 
-Candy Bui
+# Candy Bui
 
-## Communication Manager 
+- Communication Manager 
 
-Hao Thien
+# Hao Thien
 
-## Design and Education Manager
+- Design and Education Manager
 
-Bao Bao
+# Bao Bao
 
-## Advisor and Event Manager 
+- Advisor and Event Manager 
 
-Brian Cuong 
+# Brian Cuong 
 
 
 
