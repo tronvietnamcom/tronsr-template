@@ -1,12 +1,32 @@
 ## Founder
 
-Name: [Jackson Le]
+Jackson Le
 
 ## Technical Manager 
 
-Name: [An An]
+An An
 
 ## Marketing Manager
 
-Name: [Candy ]
+Candy Bui: [https://www.facebook.com/candybui306]
+
+## Marketing Manager
+
+Justin Nguyen: [https://www.facebook.com/kim.nguyenhoang25387]
+
+## Communication Manager 
+
+Hao Thien
+
+## Design and education Manager
+
+Bao Bao
+
+## Advisor and Event Manager 
+
+Brian Cuong 
+
+
+
+
 
