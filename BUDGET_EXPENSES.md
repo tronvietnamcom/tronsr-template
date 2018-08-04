@@ -1,7 +1,6 @@
 **Rewards distribution is as follows**:
 
-- 80% Rewards to our voters - daily payments 
-*Payments will be made every day!*
+- 80% Rewards to our voters - *daily payments!* 
 
 - 10% Servers cost & Maintenance
 
