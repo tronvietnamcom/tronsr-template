@@ -1,9 +1,6 @@
-- Founder
-
-#  Jackson Le
-
-- Technical Manager 
-
+ ## Jackson Le 
+Founder 
+#
 # Justin Nguyen
 
 - Marketing Manager
