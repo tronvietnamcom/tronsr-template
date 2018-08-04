@@ -4,21 +4,17 @@ Jackson Le
 
 ## Technical Manager 
 
-An An
+Justin Nguyen
 
 ## Marketing Manager
 
-[Candy Bui](https://www.facebook.com/candybui306)
-
-## Marketing Manager
-
-[Justin Nguyen](https://www.facebook.com/kim.nguyenhoang25387)
+Candy Bui
 
 ## Communication Manager 
 
 Hao Thien
 
-## Design and ducation Manager
+## Design and Education Manager
 
 Bao Bao
 
