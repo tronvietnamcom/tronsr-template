@@ -12,7 +12,7 @@ An An
 
 ## Marketing Manager
 
-[Justin Nguyen](https://www.facebook.com/kim.nguyenhoang25387]
+[Justin Nguyen](https://www.facebook.com/kim.nguyenhoang25387)
 
 ## Communication Manager 
 
