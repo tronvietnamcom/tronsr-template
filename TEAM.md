@@ -1,14 +1,12 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: [Jackson Le]
 
-## Team Member 1
+## Technical Manager 
 
-Name: [name]
-Role: [role]
+Name: [An An]
 
-## Team Member 2
+## Marketing Manager
 
-Name: [name]
-Role: [role]
+Name: [Candy ]
+
