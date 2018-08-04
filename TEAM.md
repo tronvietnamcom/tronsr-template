@@ -18,7 +18,7 @@ An An
 
 Hao Thien
 
-## Design and education Manager
+## Design and ducation Manager
 
 Bao Bao
 
