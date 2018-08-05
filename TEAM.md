@@ -6,7 +6,7 @@
 
 👉 **Hao Thien** - Communication Manager
 
-👉 **Bao Bao** - Communication Manager
+👉 **Bao Bao** - Design and Education Manager
 
 👉 **Brian Cuong** - Advisor and Event Manager
 
