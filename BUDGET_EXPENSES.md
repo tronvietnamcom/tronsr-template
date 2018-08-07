@@ -1,6 +1,7 @@
 **Rewards distribution is as follows**:
 
 - 80% Rewards to our voters - *daily payments!* 
+
   - Estimated Reward Calculator: http://bit.ly/2OQbAMY
 
 - 10% Servers cost & Maintenance
