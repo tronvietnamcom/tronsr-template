@@ -4,6 +4,7 @@
 
   - Estimated Reward Calculator: http://bit.ly/2OQbAMY
 
+
 - 10% Servers cost & Maintenance
 
 - 10% Administration, Community projects, Events, Meet up… (Team funds, legal expenses and other costs)
