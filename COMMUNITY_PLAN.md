@@ -3,3 +3,6 @@
 - Translation most information of TRONIX Project into Vietnamese and keep updating.
 
 - Education to community about TRON such as security, buy, sell, trade, hold…
+
+###### To learn more about *TRONVIETNAM*, Read the interview about us made by *TRON FOUNDATION* ([link to Medium!](https://medium.com/tron-foundation/vietnam-ho-chi-minh-city-core-tronics-interview-34153929374f))
+![Image of TRONVIETNAM](https://cdn-images-1.medium.com/max/2000/1*Jm0DyEqqr6LkpuNR9Szv9g.png) 
