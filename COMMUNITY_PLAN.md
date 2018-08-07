@@ -4,7 +4,7 @@
 
 - Education to community about TRON such as security, buy, sell, trade, hold…
 
-##### *To learn more about *TRONVIETNAM*, Read the interview about us made by *TRON FOUNDATION**
+##### To learn more about *TRONVIETNAM*, Read the interview about us made by *TRON FOUNDATION*
 
 https://medium.com/tron-foundation/vietnam-ho-chi-minh-city-core-tronics-interview-34153929374f
 
