@@ -3,6 +3,7 @@
 - 80% Rewards to our voters - *daily payments!* 
 
   - Estimated Reward Calculator: http://bit.ly/2OQbAMY
+  - Tronvietnam Sharing Records: http://bit.ly/tronvietnam
 
 
 - 10% Servers cost & Maintenance
