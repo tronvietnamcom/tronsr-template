@@ -2,7 +2,7 @@
 
 - 80% Rewards to our voters - *daily payments!* 
 
-  - Estimated Reward Calculator: http://bit.ly/2OQbAMY
+  - Estimated Reward Calculator: https://www.tokengoodies.com/?goto=TBXB5tobBPCFkC8ihFDBWjaiwW2iSpzSfr&uservotes=10000
   - Tronvietnam Sharing Records: http://bit.ly/tronvietnam
 
 
